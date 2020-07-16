@@ -4,4 +4,5 @@ A machine learning example that learns to balance a "pole" on a "cart" in a 2D e
 ## How to run
 ```bash
 pip install gym
-python CartPoleQLearn.py```
+python CartPoleQLearn.py
+```
